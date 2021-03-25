@@ -721,6 +721,10 @@ body {
 	.intro__inner {
 		padding-left: 25px;
 	}
+	.intro__btn-mobaile {
+		margin-left: -25px;
+	}
+	
 	.buttons-store__btn {
 		width: 100px;
 	}
@@ -743,6 +747,9 @@ body {
 	.intro__item_pl {
 		height: 100%;
 		padding: 100px 0 0;
+	}
+	.intro__btn-mobaile {
+		margin-left: -45px;
 	}
 
 	.intro__title {
