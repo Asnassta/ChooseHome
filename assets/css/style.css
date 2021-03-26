@@ -745,6 +745,10 @@ body {
 	.buttons-store__btn img {
 		max-width: 100%;
 	}
+	
+	.entry-form__subtitle {
+		font-size: 12px;
+	}
 
 }
 
@@ -752,6 +756,13 @@ body {
 	.intro__text {
 		max-width: 260px;
 		font-size: 10px;
+	}
+	#registration-form .entry-form__title {
+		margin-top: 70px;
+	}
+
+	#registration-form .entry-form__form {
+		margin-top: 50px;
 	}
 }
 
